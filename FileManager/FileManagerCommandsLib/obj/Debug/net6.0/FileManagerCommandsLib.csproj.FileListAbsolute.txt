@@ -1,0 +1,12 @@
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.deps.json
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\bin\Debug\net6.0\FileManagerCommandsLib.pdb
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.AssemblyReference.cache
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfoInputs.cache
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.AssemblyInfo.cs
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.csproj.CoreCompileInputs.cache
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\refint\FileManagerCommandsLib.dll
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\FileManagerCommandsLib.pdb
+C:\Users\gigry\Documents\GitHub\FileManager\FileManager\FileManagerCommandsLib\obj\Debug\net6.0\ref\FileManagerCommandsLib.dll
